@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **BaiRong-NUC/BaiRong-NUC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# 👋 Hi, I'm [BaiRong]!
+
+计算机发烧友(可以背诵CPU,显卡天梯榜的那种😤),喜欢独立游戏.
+
+## 🚀 我的技能
+- 编程语言：C++| C# | Python | TypeScript | Java
+- 框架/工具：Unity | Cocos | Centos | YoLo
+- 硕士方向：计算机视觉-目标检测 💩
+<!-- 
+## 🏆 项目展示
+- [项目名称1](项目链接)：简要介绍项目内容和亮点。
+- [项目名称2](项目链接)：简要介绍项目内容和亮点。
+- [项目名称3](项目链接)：简要介绍项目内容和亮点。
+-->
+
+## 📫 联系方式
+- 邮箱：[gby@edu.nuc.email]🤩
+- 博客：[https://blog.csdn.net/dodamce?spm=1001.2101.3001.5343]🥴
+
+## 🌱 正在学习
+- YoLo算法🤔
