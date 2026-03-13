@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 -->
 
 ## 📫 联系方式
-- 邮箱：[gby@edu.nuc.email]🤩
-- 博客：[https://blog.csdn.net/dodamce?spm=1001.2101.3001.5343]🥴
+- 邮箱：[gby@edu.nuc.email] 🤩
+- 博客：[https://blog.csdn.net/dodamce?spm=1001.2101.3001.5343] 🥴
 
 ## 🌱 正在学习
 - YoLo算法🤔
