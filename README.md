@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # 👋 Hi, I'm [BaiRong]!
 
-计算机发烧友(可以背诵CPU,显卡天梯榜的那种😤),喜欢独立游戏.
+计算机DIY发烧友,热爱计算机技术,喜欢独立游戏.
 
 ## 🚀 我的技能
 - 编程语言：C++| C# | Python | TypeScript | Java
