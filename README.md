@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 编程语言：C++| C# | Python | TypeScript | Java
 - 框架/工具：Unity | Cocos | Centos | YoLo
 - 硕士方向：计算机视觉-目标检测 💩
-- 开发方向: C++后端服务器,Cocos Playable
+- 开发方向: C++后端服务器; Cocos Playable
 <!-- 
 ## 🏆 项目展示
 - [项目名称1](项目链接)：简要介绍项目内容和亮点。
