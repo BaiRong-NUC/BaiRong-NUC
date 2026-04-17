@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 计算机DIY发烧友,热爱计算机技术,喜欢独立游戏.
 
 ## 🚀 我的技能
-- 编程语言：C++| C# | Python | TypeScript | Java
-- 框架/工具：Unity | Cocos | Centos | YoLo
+- 编程语言：C++| C# | Python | TypeScript | Java | R
+- 框架/工具：Unity | Cocos | Centos/Ubuntu | Linux
 - 硕士方向：数据分析-生物信息学
 - 开发方向: C++后端服务器; Cocos Playable
 <!-- 
@@ -33,4 +33,4 @@ Here are some ideas to get you started:
 - 博客：[https://blog.csdn.net/dodamce?spm=1001.2101.3001.5343] 🥴
 
 ## 🌱 正在学习
-- YoLo算法🤔
+- 数据分析🤔
