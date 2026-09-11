@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ## 🚀 我的技能
 - 编程语言：C++| C# | Python | TypeScript | Java | R
 - 框架/工具：Unity | Cocos | Centos/Ubuntu | Linux
-- 硕士方向：数据分析-生物信息学
+- 硕士方向：数据分析-计算机视觉
 - 开发方向: C++后端服务器; Cocos Playable; Unity
 <!-- 
 ## 🏆 项目展示
